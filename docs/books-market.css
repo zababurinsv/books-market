@@ -1,0 +1,9 @@
+.varan-background{height:auto;font-size:1.829vw;text-align:justify}
+.varan-background-top{height:auto;font-size:1.829vw;text-align:justify;display:none}
+.varan-background-bottom{height:auto;font-size:1.829vw;text-align:justify}
+.button{border:none;display:inline-block;vertical-align:middle;overflow:hidden;text-decoration:none;text-align:center;cursor:pointer;white-space:nowrap;background-color:#000;color:#d9ca6b;margin-right:1.5vw;position:absolute;right:1vw;margin-top:1.5vw;width:6vw;height:6vw;outline:0}
+.button:active{color:#000;background-color:#ccc}
+.xlarge{font-size:3vw!important}
+.circle{border-radius:50%;z-index:2}
+.edit{display:none}
+p{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}
