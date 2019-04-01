@@ -9,16 +9,14 @@
 ```
 project root
 ├─ admin                      # Admin UI to manage the controller
-├─ api                        # Code for the ClearGDPR API implementation
-├─ cg                         # Code for the ClearGDPR API implementation
-├─ docker                     # Helpers for docker run, stop, start.
-├─ frontend                   # demo front-end integrating ClearGDPR ElementSDK
+├─ api                        # Code for the Site API implementation
+├─ cg                         # Code for the Site API implementation
+├─ frontend                   # demo front-end integrating Site ElementSDK
 ├─ packages
-  ├─ js-sdk                   # Code for the ClearGDPR JS SDK implementation
-  └─ element-sdk              # Code for the ClearGDPR ElementSDK implementation
-├─ quorum                     # Blockchain related docker images and helper tools
-├─ travis                     # Scripts used on the CI server
-├─ website                    # ClearGDPR public website
+  ├─ js-sdk                   # Code for the JS SDK implementation
+  └─ element-sdk              # Code for the ElementSDK implementation
+├─ Blockchain                 # Blockchain
+├─ website                    # Public website
 ```
 
 # Requirements
@@ -33,29 +31,6 @@ Once the setup is done, you will have access to:
 - http://localhost:4000 - Admin
 - http://localhost:8082 - API
 
-## Development Mode
-
-# Integrations
-
-## Element SDK
-
-### Demo
-Coming soon.
-
-### Installation
-Coming soon.
-
-### Code Example
-Coming soon.
-
-## HTTP API
-### Example
-
-### Documentation
-#### Website
-#### Postman Collections
-# Further reading
-# Troubleshooting
 # Roadmap
 
 * Development deploy  
